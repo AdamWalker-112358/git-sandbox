@@ -21,3 +21,5 @@ console.log(jonny)
 
 const animal = Math.add(witch, ghost)
 animal.bark()
+animal.eat()
+animal.sleep()
